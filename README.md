@@ -5,8 +5,7 @@
 </p>
 
 ## 🚀 Overview
-**Jumplander AI Data Model Visualizer** is an **interactive JavaScript application** to explore datasets, visualize patterns, and understand relationships between variables.  
-Perfect for **AI enthusiasts, students, and data scientists** to quickly prototype and learn about data modeling.  
+“This project was fully developed using the Jumplander Coder 32B AI model, ensuring high-quality code generation, optimized structure, and consistent performance throughout the Visualization Engine.”
 
 > Developed with **JumpLander Coder32b AI**, focusing on **clarity, interactivity, and performance**.
 
